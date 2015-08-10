@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
     LICENSE
   }
 
-  s.author             = { "sebarina.xl" => "sebarina.xl@alibaba-inc.com" }
+  s.author             = { "sebarina.xl" => "sebarinaxu@gmail.com" }
 
   s.platform     = :ios, "8.4"
 
